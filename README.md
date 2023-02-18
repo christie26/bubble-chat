@@ -1,2 +1,6 @@
 # bubble-chat
-visitor interaction project during my architecture exhibition
+visitor inction project during my architecture exhibition
+
+[Notion Page]()
+
+## Contributors
